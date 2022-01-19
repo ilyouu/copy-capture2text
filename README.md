@@ -1,0 +1,1 @@
+# capture2text-copy
