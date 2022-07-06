@@ -1,3 +1,5 @@
-## capture2text-copy
+## Copy tool Capture to Language - Capture2text
 
-### copy form http://capture2text.sourceforge.net/
+```bash
+Link: http://capture2text.sourceforge.net/
+```
